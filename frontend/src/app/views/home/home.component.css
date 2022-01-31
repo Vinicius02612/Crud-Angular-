@@ -13,3 +13,18 @@
     font-size: 1.1rem;
     font-weight: 400;
 }
+.home2{
+    margin-top: 40px;
+    padding: 30px;
+    background-color: #fff;
+
+}
+
+.logo{
+    height: 10vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+
+}

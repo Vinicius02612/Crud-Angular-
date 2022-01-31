@@ -19,6 +19,21 @@
       "name": "Notebook",
       "price": "6000",
       "id": 4
+    },
+    {
+      "name": "Geladeira",
+      "price": "90.00",
+      "id": 5
+    },
+    {
+      "name": "Beste fried",
+      "price": "9000000",
+      "id": 6
+    },
+    {
+      "name": "Vinicius Nunes",
+      "price": "400",
+      "id": 7
     }
   ]
 }

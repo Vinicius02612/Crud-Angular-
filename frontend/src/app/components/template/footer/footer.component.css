@@ -1,0 +1,25 @@
+.footer{
+    /* //jogando a tag pro fim da pagina */
+    position: fixed;
+    bottom: 0;  
+
+    /* posicao dos elementos filhos do footer .. centralizado*/
+    display: flex;
+    justify-content:center;
+}
+
+
+/* difinindo peso da fonte */
+.footer > span > strong{
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+
+span{
+    margin: 10px;
+}
+
+i{
+    color: red;
+}

@@ -1,4 +1,4 @@
-# Sistema de Cadastro Feito em Angular 
+# Sistema de Cadastro feito em Angular 
 
 Esse sistema foi construido durante a aula de Angular 9 da cod3r cursos
 ## BACKEND

@@ -19,10 +19,12 @@ DELETE           | /produtcs/1
 ## FRONTEND
 
 
-O Frontend esta sendo construido em Angular 9 usando conceitos basicos com :
+O Frontend esta sendo construido em [Angular9](https://angular.io/)  e [TypeScript](https://www.typescriptlang.org/) usando conceitos basicos com :
 - Services
 - Bindings
 - Diretivas
 - Componentes
 - Rotas
 - Observables
+
+O sistema consiste em cadastrar, Listar, deletar e atualizar.

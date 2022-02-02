@@ -34,6 +34,26 @@
       "name": "Vinicius Nunes",
       "price": "400",
       "id": 7
+    },
+    {
+      "name": "Arroz",
+      "price": "250",
+      "id": 8
+    },
+    {
+      "name": "Notebook",
+      "price": "6000",
+      "id": 9
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 10
+    },
+    {
+      "name": "Vinícius da Silva Nunes",
+      "price": "6000",
+      "id": 11
     }
   ]
 }

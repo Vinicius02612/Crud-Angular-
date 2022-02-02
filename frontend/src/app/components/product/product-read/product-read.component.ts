@@ -10,6 +10,7 @@ import { Prodcut } from '../product.model';
 export class ProductReadComponent implements OnInit {
 
   products: Prodcut[]
+  displayedColumns =['id', 'name', 'price']
 
   //injetando produtos
   constructor(private productService:ProductService) { }

@@ -10,7 +10,7 @@ import { Prodcut } from '../product.model';
 export class ProductReadComponent implements OnInit {
 
   products: Prodcut[]
-  displayedColumns =['id', 'name', 'price']
+  displayedColumns =['id', 'name', 'price','action']
 
   //injetando produtos
   constructor(private productService:ProductService) { }
@@ -18,7 +18,7 @@ export class ProductReadComponent implements OnInit {
   ngOnInit(): void {
     this.productService.read().subscribe(products =>{
         this.products = products
-        console.log(products)
+        
     })
   }
 

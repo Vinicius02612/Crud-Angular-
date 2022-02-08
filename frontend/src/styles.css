@@ -3,3 +3,15 @@
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
+.v-middle{
+    vertical-align: middle;
+}
+
+.msg-success{
+    background-color: green;
+    color: white;
+}
+.msg-error{
+    background-color: tomato;
+    color: white;
+}

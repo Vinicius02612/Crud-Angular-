@@ -1,4 +1,4 @@
-export interface Prodcut { //criante interface dos produtos
+export interface Prodcut { //criando interface dos produtos
     id?: number
     name: string
     price: number
